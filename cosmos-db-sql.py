@@ -5,7 +5,7 @@ import pydocumentdb.errors as errors
 
 config = { 
     'cosmosdb_endpoint': 'https://dkncosmos1.documents.azure.com',
-    'primary_key': 'foELnp9Vt4uBBIqHW4ojqfBIVR3ZN8EpbUBvIh6y8ox0gaNojUoSyrPkK9DiCEIavpKqQiiYRIJt6Py2v7IXCg==',
+    'primary_key': 'foAELnp9Vt4uBBIqHW4ojqfBIVR3ZN8EpbUBvIh6y8ox0gaNojUoSyrPkK9DiCEIavpKqQiiYRIJt6Py2v7IXCg==',
     'db': 'cosmicworld',
 	'collection':'samples'
 };
