@@ -7,7 +7,7 @@ author: dkn
 
 ## Azure Cosmos DB Architecture
 
-* Top 3 key attributes of Azure Cosmos DB that we should take note architecturally.
+### Top 3 key attributes of Azure Cosmos DB that we should take note architecturally.
  1. Globally distributed, provided 'as a service' without any management overhead.
  2. Multi-model and Multi API
 	- Model brings the a schema agnostic data view
